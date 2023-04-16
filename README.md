@@ -48,4 +48,8 @@ A brief about the Assignments :
 
   Program for disk scheduling algorithms (FCFS, SSTF, SCAN, CSCAN, LOOK, CLOOK)
 
+Use the following command to compile any program using the pthreads library `gcc -pthread file_name.c`
+
+For all others `gcc file_name.c` or `g++ file_name.cpp` would do
+
 Feel free to suggest any issues or changes.
